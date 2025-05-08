@@ -66,7 +66,7 @@ A web-based AI-powered tool that uses Natural Language Processing (NLP) to **ana
    ``bash
    pip install -r requirements.txt
 
-4.**Run the app
+4.**Run the app**
    ``bash
    streamlit run app.py
 
@@ -79,6 +79,7 @@ A web-based AI-powered tool that uses Natural Language Processing (NLP) to **ana
     ┣ 📄requirements.txt
     ┣ 📄Courses.py
     ┣ 📄README.md
+---
 
 ##📌 To Do / Future Scope
 
@@ -89,6 +90,7 @@ Improve experience level prediction using ML
 Resume ranking for job-specific roles
 
 Integrate with real-time job APIs
+---
 
 ##🧑‍💻 Author
 Deepak Bhabagrahi Padhi – LinkedIn
@@ -96,9 +98,11 @@ Deepak Bhabagrahi Padhi – LinkedIn
 Guided by Dr. Sampada Margaj
 
 Kirti M. Doongursee College of Arts, Science & Commerce
+---
 
 ##📄 License
 This project is licensed under the MIT License.
+---
 
 ##🙌 Acknowledgements
 Streamlit Docs – https://docs.streamlit.io/
@@ -109,10 +113,4 @@ IJITEE & Academia NLP research
 
 Resume parsing blogs and RChilli NLP guide
 
-yaml
-Copy
-Edit
-
 ---
-
-Would you like me to prepare this as a downloadable `README.md` file or help you publish it directl
