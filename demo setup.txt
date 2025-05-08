@@ -1,0 +1,5 @@
+1)  AI-Resume-Analyzer\venvapp\Scripts\activate
+
+2)  cd AI-Resume-Analyzer\App
+
+3)  streamlit run App.py
