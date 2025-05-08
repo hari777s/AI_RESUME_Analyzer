@@ -11,8 +11,8 @@ A web-based AI-powered tool that uses Natural Language Processing (NLP) to **ana
 
 ## 🚀 Demo
 
-![Demo Screenshot]()  
-> *Upload your resume → Get tips, predictions, scores, and more!*
+> _Upload your resume → Get tips, predictions, scores, and more!_
+> *(Add screenshot or demo link here if available)*
 
 ---
 
@@ -51,66 +51,67 @@ A web-based AI-powered tool that uses Natural Language Processing (NLP) to **ana
 
 ## 🛠️ Setup Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
-   cd AI-Resume-Analyzer
-   
-2. **Create a virtual environment & activate it**
+### Create a virtual environment & activate it
 
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
-3.**Install required packages**
-   ``bash
-   pip install -r requirements.txt
+### Install required packages
 
-4.**Run the app**
-   ``bash
-   streamlit run app.py
+```bash
+pip install -r requirements.txt
+```
+
+### Run the app
+
+```bash
+streamlit run app.py
+```
+
+---
 
 ## 📁 Folder Structure
-   ``vbnet
-   📦AI-Resume-Analyzer
-    ┣ 📁static
-    ┣ 📁utils
-    ┣ 📄app.py
-    ┣ 📄requirements.txt
-    ┣ 📄Courses.py
-    ┣ 📄README.md
+
+```
+📦AI-Resume-Analyzer
+ ┣ 📁static
+ ┣ 📁utils
+ ┣ 📄app.py
+ ┣ 📄requirements.txt
+ ┣ 📄Courses.py
+ ┣ 📄README.md
+```
+
 ---
 
-##📌 To Do / Future Scope
+## 📌 To Do / Future Scope
 
-Add support for DOCX resumes
+- Add support for DOCX resumes  
+- Improve experience level prediction using ML  
+- Resume ranking for job-specific roles  
+- Integrate with real-time job APIs  
 
-Improve experience level prediction using ML
-
-Resume ranking for job-specific roles
-
-Integrate with real-time job APIs
 ---
 
-##🧑‍💻 Author
-Deepak Bhabagrahi Padhi – LinkedIn
+## 🧑‍💻 Author
 
-Guided by Dr. Sampada Margaj
+- **Deepak Bhabagrahi Padhi** – [LinkedIn](https://linkedin.com/in/your-link)
+- Guided by **Dr. Sampada Margaj**
+- Kirti M. Doongursee College of Arts, Science & Commerce
 
-Kirti M. Doongursee College of Arts, Science & Commerce
 ---
 
-##📄 License
+## 📄 License
+
 This project is licensed under the MIT License.
----
-
-##🙌 Acknowledgements
-Streamlit Docs – https://docs.streamlit.io/
-
-Udemy Data Science Bootcamp
-
-IJITEE & Academia NLP research
-
-Resume parsing blogs and RChilli NLP guide
 
 ---
+
+## 🙌 Acknowledgements
+
+- [Streamlit Docs](https://docs.streamlit.io/)  
+- Udemy Data Science Bootcamp  
+- IJITEE & Academia NLP research  
+- Resume parsing blogs and [RChilli](https://www.rchilli.com/blog/resume-parsing-101/) NLP guide
