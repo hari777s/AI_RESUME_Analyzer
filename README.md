@@ -63,15 +63,15 @@ A web-based AI-powered tool that uses Natural Language Processing (NLP) to **ana
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3.**Install required packages**
-   ```bash
+   ``bash
    pip install -r requirements.txt
 
 4.**Run the app
-   ```bash
+   ``bash
    streamlit run app.py
 
 ## 📁 Folder Structure
-   ```vbnet
+   ``vbnet
    📦AI-Resume-Analyzer
     ┣ 📁static
     ┣ 📁utils
