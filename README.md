@@ -97,9 +97,9 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-- **Deepak Bhabagrahi Padhi** – [LinkedIn](https://linkedin.com/in/your-link)
-- Guided by **Dr. Sampada Margaj**
-- Kirti M. Doongursee College of Arts, Science & Commerce
+- **Hariharan S** – [LinkedIn](https://linkedin.com/in/hariharan-subburaj)
+- Guided by **Dr. Ranjith**
+- Government colleng of engineering srirangam.
 
 ---
 
