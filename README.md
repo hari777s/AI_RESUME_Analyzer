@@ -11,6 +11,7 @@ A web-based AI-powered tool that uses Natural Language Processing (NLP) to **ana
 
 ## 🚀 Demo
 
+![App Screenshot](screenshots/RESUME.png)
 > _Upload your resume → Get tips, predictions, scores, and more!_
 ---
 
