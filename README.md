@@ -12,8 +12,6 @@ A web-based AI-powered tool that uses Natural Language Processing (NLP) to **ana
 ## 🚀 Demo
 
 > _Upload your resume → Get tips, predictions, scores, and more!_
-> *(Add screenshot or demo link here if available)*
-
 ---
 
 ## 🔧 Tech Stack
