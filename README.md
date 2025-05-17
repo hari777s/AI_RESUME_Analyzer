@@ -1,4 +1,4 @@
-# 🧠 AI Resume Analyzer
+# 🧠 AI Resume Analyzer with Recommendations
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange)
